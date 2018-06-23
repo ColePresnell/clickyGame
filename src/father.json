@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "alexander_hamilton.jpg"
+    },
+    {
+      "id": 2,
+      "image": "ben_franklin.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "elbridge_gerry.jpg"
+    },
+    {
+      "id": 4,
+      "image": "george_washington.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "james_madison.jpg"
+    },
+    {
+      "id": 6,
+      "image": "john_adams.jpg"
+    },
+    {
+      "id": 7,
+      "image": "john_hancock.jpg"
+    },
+    {
+      "id": 8,
+      "image": "john_jay.jpg"
+    },
+    {
+      "id": 9,
+      "image": "patrick_henry.jpg"
+    },
+    {
+      "id": 10,
+      "image": "roger_sherman.jpg"
+    },
+    {
+      "id": 11,
+      "image": "sam_adams.png"
+    },
+    {
+      "id": 12,
+      "image": "thomas_jefferson.jpg"
+    }
+  ]
